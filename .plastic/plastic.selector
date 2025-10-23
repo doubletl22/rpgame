@@ -1,0 +1,4 @@
+repository "rpgamge/rpgamge@18968181142002@cloud"
+  path "/"
+    br "/main"
+    co "/main"
